@@ -4,7 +4,7 @@
 
 &nbsp;
 
-<img src="https://github.com/JacopoCasanova98/Cities-Lifestyle-S2I/blob/main/assets/readme-img/Cities%20Lifestyle.JPG" width="900"/> 
+<img src="https://github.com/JacopoCasanova98/Cities-Lifestyle/blob/main/src/github-img/Home.JPG" width="900"/> 
 
 &nbsp;
 
