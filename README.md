@@ -26,14 +26,12 @@
 ## 💻 Bundler
 * [Webpack 5](https://webpack.js.org/)
 
-## :globe_with_meridians: External Services
+## 📊 API Service
 * [Teleport Cities API](https://developers.teleport.org/api/)
 
-## :floppy_disk: Installation
-First of all, you need Node.js installed.
-If you don't have it, you can download it here:
+## 📥 How to install
+Node.js is necessary to install this project, if you don't have it you can install it here:
 [Node.js](https://nodejs.org/it/download/)<br>
-After the installation, you're ready to go.
 
 ### 1 - Clone the repository
 `git clone https://github.com/cristopherturazza/S2I-JS-Advanced`
