@@ -4,7 +4,7 @@
 
 &nbsp;
 
-<img src="https://github.com/JacopoCasanova98/Cities-Lifestyle/blob/main/src/github-img/Home.JPG" width="900"/> 
+<img src="https://github.com/JacopoCasanova98/Cities-Lifestyle/blob/main/src/github-img/Home.JPG" width="500"/> 
 
 &nbsp;
 
@@ -13,12 +13,12 @@
 
 * Write the name of the city that you want to find &nbsp; &nbsp;
 &nbsp;
-<img src="https://github.com/JacopoCasanova98/Cities-Lifestyle-S2I/blob/main/assets/readme-img/City.JPG" width="700"/>  
+<img src="https://github.com/JacopoCasanova98/Cities-Lifestyle/blob/main/src/github-img/Write%20City.JPG" width="700"/>  
 
 
 * Press the Search Button to see the scores of the city &nbsp; &nbsp; 
 &nbsp;
-<img src="https://github.com/JacopoCasanova98/Cities-Lifestyle-S2I/blob/main/assets/readme-img/Results.JPG" width="600"/>
+<img src="https://github.com/JacopoCasanova98/Cities-Lifestyle/blob/main/src/github-img/Find%20Scores.JPG" width="600"/>
 
 
 ## Try it on it's website on Netlify!
