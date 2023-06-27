@@ -39,6 +39,8 @@ Node.js is necessary to install this project, if you don't have it you can insta
 `npm install`
 ### 3 - Build it!
 `npm run build`
+### 4 - Open in the browser
+Check out for index.html in the /dist folder.
 
 
 ## Try it on it's website on Netlify!
