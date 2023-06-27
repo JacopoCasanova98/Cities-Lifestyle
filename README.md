@@ -34,7 +34,7 @@ Node.js is necessary to install this project, if you don't have it you can insta
 [Node.js](https://nodejs.org/it/download/)<br>
 
 ### 1 - Clone the repository
-`https://github.com/JacopoCasanova98/Cities-Lifestyle.git`
+`gh repo clone JacopoCasanova98/Cities-Lifestyle`
 ### 2 - Install the dependencies
 `npm install`
 ### 3 - Build it!
