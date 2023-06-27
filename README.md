@@ -1,6 +1,6 @@
-# Cities Lifestyle 
+# Cities Lifestyle 🌍🌃
 
-### With Cities Lifestyle you can find datas on quality of life in the cities of the world!! 🌍🌃
+### With Cities Lifestyle you can find datas on quality of life in the cities of the world!! 🗺
 
 &nbsp;
 
