@@ -24,4 +24,4 @@
 
 
 ## Try it on it's website on Netlify!
-### 🌐 [https://jacopocasanova98.github.io/Cities-Lifestyle-S2I/](https://beamish-crepe-7f7459.netlify.app)
+### 🌐 [[https://jacopocasanova98.github.io/Cities-Lifestyle-S2I/](https://beamish-crepe-7f7459.netlify.app)](https://main--luminous-truffle-7cc7e6.netlify.app/)https://main--luminous-truffle-7cc7e6.netlify.app/
