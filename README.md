@@ -24,4 +24,4 @@
 
 
 ## Try it on it's website on Netlify!
-### 🌐 [luminous-truffle-7cc7e6.netlify.app]
+### 🌐 (http://luminous-truffle-7cc7e6.netlify.app)
